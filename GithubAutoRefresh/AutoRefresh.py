@@ -7,7 +7,7 @@ from selenium import webdriver
 import time
 
 # set webdriver path here it may vary
-browser = webdriver.Chrome(executable_path ="C:\\Users\\ms023673\\Documents\\Sel_driver\\Driver\\chromedriver_win32\\chromedriver.exe") 
+browser = webdriver.Chrome(executable_path ="C:\\Users\\muthu\\Documents\\Sel_driver\\Driver\\chromedriver_win32\\chromedriver.exe") 
   
 # website_URL ="https://www.google.co.in/"
 browser.get("https://github.com/kumarmuthu/python_logic") 
