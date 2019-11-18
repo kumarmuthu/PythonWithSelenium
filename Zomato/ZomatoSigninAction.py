@@ -9,7 +9,7 @@ import time
 import sys
  
 # set webdriver path here it may vary 
-browser = webdriver.Chrome(executable_path ="C:\\Users\\ms023673\\Documents\\Sel_driver\\Driver\\chromedriver_win32\\chromedriver.exe") 
+browser = webdriver.Chrome(executable_path ="C:\\Users\\muthu\\Documents\\Sel_driver\\Driver\\chromedriver_win32\\chromedriver.exe") 
  
 # zomato link set 
 browser.get('https://www.zomato.com/ncr') 
