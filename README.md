@@ -1,2 +1,2 @@
 # PythonWithSelenium
-Webpage testing is used by selenium
+Webpage testing powerved by selenium
