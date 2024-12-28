@@ -2,7 +2,7 @@ __version__ = "2024.07.20.01"
 __author__ = "Muthukumar Subramanian"
 
 """
-Download the PythreadKiller package and Install/Upgrade on
+Download the PythreadKiller package and Install/Upgrade
 """
 
 import os
